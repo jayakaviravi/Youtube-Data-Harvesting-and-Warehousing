@@ -32,7 +32,7 @@
 -  pip install mysql-connector-python
 -  pip streamlit
 -  pip install streamlit-option-menu
--  pip install plotly-express
+-  pip install plotly_ express
 -  pip install regex
 -  pip install pandas
 -  pip install numpy
